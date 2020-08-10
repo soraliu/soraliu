@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=soraliu&show_icons=true&hide_title=true&theme=material-palenight" />
+
+- 🔭 I’m currently working on infra.
+- 🌱 I’m currently learning K8s, ChatOps ...
+- 📫 How to reach me: soraliu.dev@gmail.com
+
 <!--
 **soraliu/soraliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
