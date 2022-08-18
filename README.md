@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=soraliu&show_icons=true&hide_title=true&theme=material-palenight" />
 
-🔭 I’m currently working on infra. 🌱 I’m currently learning K8s, ChatOps, Monorepo and so on. 📫 How to reach me:
+🔭 I’m currently working on Web3. 🌱 I’m currently learning solidity, ethereum and so on. 📫 How to reach me:
 - soraliu.dev@gmail.com
 
 <!--
